@@ -26,7 +26,7 @@ export default function SimpleProcess() {
   ];
 
   const proofPoints = [
-    "20+ clubs completed successfully",
+    "30+ clubs completed successfully",
     "50+ clubs currently in production", 
     "20% of contacted clubs say yes immediately",
     "€600k+ already contracted by trusting clubs"
@@ -93,7 +93,7 @@ export default function SimpleProcess() {
                 <div className="w-6 h-6 bg-gradient-to-br from-primary/15 to-primary/10 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
                   <CheckCircle className="w-4 h-4 text-primary" />
                 </div>
-                <span className="text-foreground leading-relaxed">Every club has incredible stories — you help us find them</span>
+                <span className="text-foreground leading-relaxed">Every club has incredible stories — we help you find them</span>
               </div>
               <div className="flex items-start gap-4">
                 <div className="w-6 h-6 bg-gradient-to-br from-primary/15 to-primary/10 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
@@ -111,7 +111,7 @@ export default function SimpleProcess() {
                 <div className="w-6 h-6 bg-gradient-to-br from-primary/15 to-primary/10 rounded-full flex items-center justify-center flex-shrink-0 mt-0.5">
                   <CheckCircle className="w-4 h-4 text-primary" />
                 </div>
-                <span className="text-foreground leading-relaxed">20+ clubs have escaped the daunting writing process and created something they're genuinely proud to pass down</span>
+                <span className="text-foreground leading-relaxed">30+ clubs have escaped the daunting writing process and created something they're genuinely proud to pass down</span>
               </div>
             </div>
           </div>
