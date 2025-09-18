@@ -142,7 +142,7 @@ export default function SimpleProcess() {
         {/* Partnership Approach Section */}
         <div className="mt-16">
           <div className="text-center mb-12">
-            <h3 className="text-3xl font-serif font-bold text-foreground mb-4">
+            <h3 className="text-3xl sm:text-4xl lg:text-5xl font-serif font-bold text-foreground mb-6">
               Our Partnership Approach
             </h3>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
