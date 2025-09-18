@@ -143,7 +143,7 @@ export default function SimpleProcess() {
         <div className="mt-16">
           <div className="text-center mb-12">
             <h3 className="text-3xl sm:text-4xl lg:text-5xl font-serif font-bold text-foreground mb-6">
-              Our Partnership Approach
+              Our <span className="text-primary">Partnership</span> Approach
             </h3>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
               No upfront investment. No financial risk. Just exceptional results.
