@@ -149,7 +149,7 @@ export default function Hero() {
             From your club founders to today's young stars — everyone becomes part of your club's story. We work together to make it happen.
           </p>
           
-          <div className="flex flex-col sm:flex-row gap-4 justify-center hidden">
+          <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button 
               size="lg" 
               className="bg-gradient-to-r from-primary to-blue-600 hover:from-primary/90 hover:to-blue-600/90 text-white px-8 py-6 text-lg font-semibold shadow-lg hover:shadow-xl hover:shadow-primary/25 transition-all duration-300 transform hover:scale-[1.02] border-0"
