@@ -30,7 +30,7 @@ export default function ContactForm() {
                   </div>
                   <div>
                     <p className="font-semibold text-card-foreground">Call Us</p>
-                    <p className="text-muted-foreground">+353 1 234 5678</p>
+                    <p className="text-muted-foreground">+353 87 2867084</p>
                   </div>
                 </div>
                 
@@ -40,7 +40,7 @@ export default function ContactForm() {
                   </div>
                   <div>
                     <p className="font-semibold text-card-foreground">Email Us</p>
-                    <p className="text-muted-foreground">hello@myclubhistory.ie</p>
+                    <p className="text-muted-foreground">liam@herobooks.ie</p>
                   </div>
                 </div>
                 
