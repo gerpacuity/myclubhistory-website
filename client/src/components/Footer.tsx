@@ -61,11 +61,11 @@ export default function Footer() {
             <div className="space-y-3 text-sm text-primary-foreground/80">
               <div className="flex items-center gap-2">
                 <Phone className="w-4 h-4" />
-                <span>+353 1 234 5678</span>
+                <span>+353 87 2867084</span>
               </div>
               <div className="flex items-center gap-2">
                 <Mail className="w-4 h-4" />
-                <span>hello@myclubhistory.ie</span>
+                <span>liam@herobooks.ie</span>
               </div>
               <div className="flex items-center gap-2">
                 <MapPin className="w-4 h-4" />
