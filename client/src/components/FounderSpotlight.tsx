@@ -15,7 +15,7 @@ export default function FounderSpotlight() {
       name: "Paschal Taggart",
       title: "Chairman and Strategic Advisor", 
       image: paschalTaggartImage,
-      description: "Veteran Irish business leader and dealmaker with over 40 years of executive experience across property development, retail, and corporate governance. Currently holds 37 active directorships and has been involved in many landmark corporate deals over decades. Former Chairman of Bord na gCon (Greyhound Racing Ireland) and active board member across multiple sectors. As Chairman, Paschal brings extensive networks, proven dealmaking expertise, and strategic vision to position My Club History as the definitive leader in heritage publishing across Ireland and the UK."
+      description: "Veteran Irish business leader and dealmaker with over 40 years of executive experience across property development, retail, and corporate governance. Has been involved in many landmark corporate deals over decades. Former Chairman of Bord na gCon (Greyhound Racing Ireland) and active board member across multiple sectors. As Chairman, Paschal brings extensive networks, proven dealmaking expertise, and strategic vision to position My Club History as the definitive leader in heritage publishing across Ireland and the UK."
     },
     {
       name: "Ger Perdisatt", 
